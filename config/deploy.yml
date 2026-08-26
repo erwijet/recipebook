@@ -1,0 +1,19 @@
+service: recipebook
+image: erwijet/recipebook
+
+servers: [web-1] # tailscale
+
+proxy:
+  ssl: false
+  hosts:
+    - recipebook.holewinski.dev
+  app_port: 80
+  healthcheck:
+    path: /
+
+registry:
+  username: erwijet
+  password: [KAMAL_REGISTRY_PASSWORD]
+
+builder:
+  arch: amd64

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "recipes"
+version = "0.1.0"
+description = "Tyler's Recipie Book, a static recipe site built with MkDocs."
+authors = ["Tyler Holewinski <tyler@holewinski.dev>"]
+readme = "README.md"
+# This project is a site, not an installable package, so there is nothing to
+# install as the root. Without this, `poetry install` fails looking for a
+# `recipes` package directory.
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs = "^1.6.1"
+mkdocs-terminal = "^4.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

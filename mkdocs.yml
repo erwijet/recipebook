@@ -1,0 +1,68 @@
+site_name: Tyler's Recipe Book
+site_description: Recipes I've found, tweaked, made, and stolen.
+
+repo_url: https://github.com/erwijet/recipebook
+
+docs_dir: recipes
+
+theme:
+  name: terminal
+  custom_dir: overrides
+  palette: catppuccin_frappe
+  features:
+    - navigation.side.indexes
+    - navigation.top.cursor_animation.hide
+
+nav:
+  - Home: index.md
+  - Dinner:
+      - air-fryer-salmon-with-lemon-yogurt-sauce.md
+      - brown-sugar-glaze-pork.md
+      - butter-chicken.md
+      - chipotle-lime-chicken-meal-prep-bowls.md
+      - crispy-chicken-with-creamy-mushroom-pasta.md
+      - feb-3-magic-night-chicken-katsu.md
+      - feta-spinach-stuffed-chicken-breast.md
+      - japanese-curry.md
+      - katsudon.md
+      - mac-n-cheese.md
+      - miso-cod-ii.md
+      - miso-glazed-cod-with-beurre-blanc.md
+      - one-pan-tuscan-chicken.md
+      - pan-seared-halibut-with-lemon-beurre-blanc.md
+      - salmon-with-baby-potatoes-and-fennel-citrus-salad.md
+      - salmon-with-garlic-lemon-butter-sauce.md
+      - salmon-with-sweet-soy-sriracha.md
+      - shrimp-scampi.md
+      - shrimp-tacos-with-corn-salad.md
+      - turkey-burgers.md
+      - tuscan-chicken-rigatoni.md
+  - Soup:
+      - beer-cheese-soup.md
+      - easy-potato-soup.md
+      - french-onion-soup.md
+      - miso-soup.md
+  - Salad:
+      - cucumber-feta-salad.md
+      - shaved-fennel-and-citrus-salad.md
+      - veg-salad-with-chicken.md
+  - Sauces:
+      - chipotle-crema.md
+      - jagersauce.md
+      - pesto.md
+      - pinot-noir-pan-sauce-for-steak.md
+      - red-wine-rosemary-fig-sauce-for-pork.md
+      - white-bean-puree.md
+  - Bread:
+      - bread.md
+  - Dessert:
+      - creme-brulee.md
+  - Drinks:
+      - strawberry-matcha.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  # - toc:
+  #     permalink: true

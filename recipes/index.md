@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Tyler's Recipie Book
+# Tyler's Recipe Book
 
 ## Dinner
 
@@ -15,6 +15,7 @@ title: Home
 - [Feta & Spinach Stuffed Chicken Breast](feta-spinach-stuffed-chicken-breast.md)
 - [Japanese Curry](japanese-curry.md)
 - [Katsudon](katsudon.md)
+- [Korean Fried Chicken](korean-fried-chicken.md)
 - [Mac n Cheese](mac-n-cheese.md)
 - [Miso Cod II](miso-cod-ii.md)
 - [Miso Glazed Cod with Beurre Blanc & Baby Bok Choy](miso-glazed-cod-with-beurre-blanc.md)

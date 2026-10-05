@@ -50,6 +50,7 @@ nav:
   - Sauces:
       - chipotle-crema.md
       - jagersauce.md
+      - orange-chicken-sauce.md
       - pesto.md
       - pinot-noir-pan-sauce-for-steak.md
       - red-wine-rosemary-fig-sauce-for-pork.md
@@ -60,6 +61,10 @@ nav:
       - creme-brulee.md
   - Drinks:
       - strawberry-matcha.md
+
+plugins:
+  - search
+  - roamlinks
 
 markdown_extensions:
   - admonition

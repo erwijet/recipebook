@@ -1,10 +1,10 @@
 ---
-title: Jägersauce
+title: Jagersauce
 tags:
   - sauce
 ---
 
-# Jägersauce
+# Jagersauce
 
 ## Ingredients
 

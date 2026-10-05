@@ -1,0 +1,15 @@
+#terminal-mkdocs-side-panel {
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+@media only screen and (min-width: 70em) {
+  .terminal-mkdocs-main-grid {
+    grid-template-columns: 5fr 9fr;
+  }
+}
+
+.terminal-mkdocs-side-nav-li-ul-li {
+  padding-left: calc(var(--global-space) * 2 + 2ch);
+  text-indent: -2ch;
+}

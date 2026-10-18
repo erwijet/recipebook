@@ -17,6 +17,7 @@ nav:
   - Home: index.md
   - Dinner:
       - air-fryer-salmon-with-lemon-yogurt-sauce.md
+      - apple-chicken-skillet.md
       - brown-sugar-glaze-pork.md
       - butter-chicken.md
       - chipotle-lime-chicken-meal-prep-bowls.md
@@ -48,6 +49,7 @@ nav:
       - shaved-fennel-and-citrus-salad.md
       - veg-salad-with-chicken.md
   - Sauces:
+      - all-purpose-dredge-for-chicken.md
       - chipotle-crema.md
       - jagersauce.md
       - orange-chicken-sauce.md

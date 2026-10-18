@@ -7,6 +7,7 @@ title: Home
 ## Dinner
 
 - [Air Fryer Salmon with Lemon-Yogurt Sauce](air-fryer-salmon-with-lemon-yogurt-sauce.md)
+- [Apple Chicken Skillet](apple-chicken-skillet.md)
 - [Brown Sugar Glaze Pork with Asparagus Tips and Mashed Potatoes](brown-sugar-glaze-pork.md)
 - [Butter Chicken](butter-chicken.md)
 - [Chipotle-Lime Chicken Meal-Prep Bowls](chipotle-lime-chicken-meal-prep-bowls.md)
@@ -44,6 +45,7 @@ title: Home
 
 ## Sauces
 
+- [All Purpose Dredge for Chicken](all-purpose-dredge-for-chicken.md)
 - [Chipotle Crema](chipotle-crema.md)
 - [Jagersauce](jagersauce.md)
 - [Orange Chicken Sauce](orange-chicken-sauce.md)

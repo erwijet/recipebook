@@ -13,3 +13,20 @@
   padding-left: calc(var(--global-space) * 2 + 2ch);
   text-indent: -2ch;
 }
+
+#terminal-mkdocs-main-content ol > li {
+  padding-left: calc(var(--global-space) * 2 + 3ch);
+}
+
+#terminal-mkdocs-main-content ol > li + li {
+  margin-top: var(--global-space);
+}
+
+#terminal-mkdocs-main-content ol > li::before {
+  position: absolute;
+  left: 0;
+  width: calc(var(--global-space) * 2 + 3ch);
+  padding-right: 1ch;
+  box-sizing: border-box;
+  text-align: right;
+}

@@ -14,6 +14,7 @@ title: Home
 - [Crispy Chicken with Creamy Mushroom Pasta](crispy-chicken-with-creamy-mushroom-pasta.md)
 - [Feb 3 Magic Night Chicken Katsu](feb-3-magic-night-chicken-katsu.md)
 - [Feta & Spinach Stuffed Chicken Breast](feta-spinach-stuffed-chicken-breast.md)
+- [Honey Garlic Chicken Alfredo](honey-garlic-chicken-alfredo.md)
 - [Japanese Curry](japanese-curry.md)
 - [Katsudon](katsudon.md)
 - [Korean Fried Chicken](korean-fried-chicken.md)

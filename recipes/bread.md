@@ -7,8 +7,6 @@ created: 2026-06-19
 
 # Bread
 
-> **TODO:** This recipe is incomplete. There are no directions yet.
-
 ## Ingredients
 
 - 3 cups all-purpose flour
@@ -18,5 +16,3 @@ created: 2026-06-19
 - 1.5 cups warm water (about 110 degrees F)
 
 ## Directions
-
-Not written yet.

@@ -43,7 +43,3 @@ created: 2025-11-14
 13. Add the remaining mac and cheese to the bake dish, and top off with the remaining cheese.
 14. Bake in an oven preheated to 350 °F for 25-30 min.
 15. Remove from the oven and let sit for 5-10 minutes.
-
-## Notes
-
-> **TODO:** The ingredient list includes smoked paprika, but no step calls for it.

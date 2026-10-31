@@ -94,7 +94,3 @@ created: 2023-04-19
 2. Stir in the salt, sugar, butter, and garam masala.
 3. Turn off the heat and stir in the heavy cream.
 4. Garnish with chopped cilantro and a drizzle of heavy cream. Serve with jasmine rice.
-
-## Notes
-
-> **TODO:** The sauce directions call for ginger garlic paste and whole coriander, and step 6 calls for hot water, but none of the three appear in the ingredient list. Add quantities next time you cook this.

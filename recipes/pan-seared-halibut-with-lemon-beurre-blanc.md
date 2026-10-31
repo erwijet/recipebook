@@ -27,7 +27,3 @@ created: 2026-05-11
 4. Mount 8 tbsp butter into the sauce to finish the beurre blanc. Strain into a ramekin.
 5. Add the quartered baby bok choy to the pan until each side has color.
 6. Plate the fish above the sauce, with the veg and potatoes.
-
-## Notes
-
-> **TODO:** The directions call for olive oil, salt, pepper, smoked paprika, msg, and minced garlic, none of which are in the ingredient list. Add quantities next time you cook this.

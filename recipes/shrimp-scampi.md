@@ -7,8 +7,6 @@ created: 2026-05-13
 
 # Shrimp Scampi
 
-![Shrimp Scampi](assets/shrimp-scampi.jpg)
-
 ## Ingredients
 
 - 1/2 lb pasta

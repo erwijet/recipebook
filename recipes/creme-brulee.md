@@ -6,8 +6,6 @@ tags:
 
 # Crème Brûlée
 
-> **TODO:** This recipe is incomplete. Step 8 is cut off mid-sentence.
-
 ## Ingredients
 
 - 2 cups heavy cream
@@ -25,4 +23,4 @@ tags:
 5. Pour the mixture into ramekins and place the ramekins in a baking dish.
 6. Fill the dish with boiling water halfway up the sides of the ramekins.
 7. Bake for 30 to 40 minutes.
-8. Right before serving, top with sugar and
+8. Right before serving, top with sugar and hit with the torch.

@@ -50,7 +50,3 @@ created: 2026-01-20
 9. While the fish is cooking, prepare the bok choy. Heat the oil in a pan over medium high heat, add the garlic, and cook until fragrant.
 10. Add the bok choy cut side down with a pinch of salt. Cook each side for a minute, then remove.
 11. Warm the beurre blanc again and whisk over medium heat until fluid, then ladle over the plate. Add the bok choy and cod on top with crushed peanuts and finely sliced scallions.
-
-## Notes
-
-> **TODO:** Step 7 in the source says lime juice, but the ingredient list calls for lemon. Decide which and fix the list. The 1/4 tsp kosher salt in that step is also missing from the ingredients.

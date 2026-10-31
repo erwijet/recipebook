@@ -35,7 +35,3 @@ created: 2026-04-26
 4. Stir in the chicken broth, heavy cream, rigatoni, and the remaining 1/2 teaspoon kosher salt. Bring to a simmer. Cook, adjusting the heat as needed to maintain a simmer, until the pasta is al dente, 18 to 20 minutes.
 5. Reduce the heat to medium-low. Stir in the Parmesan, the chicken, and any accumulated juices in the bowl. Cook, stirring occasionally, until the sauce thickens slightly and coats the pasta, and the chicken is cooked through, about 2 minutes.
 6. Stir in the baby spinach until wilted, about 1 minute. Taste and season with kosher salt and black pepper as needed. Serve garnished with more grated Parmesan.
-
-## Notes
-
-> **TODO:** The ingredient list calls for 1/2 cp julienne cut sun-dried tomatoes, but the source directions say "4 thinly sliced sun-dried tomatoes." Confirm which amount you actually use.

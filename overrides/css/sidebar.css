@@ -30,3 +30,33 @@
   box-sizing: border-box;
   text-align: right;
 }
+
+#side-panel-toggle > summary {
+  cursor: pointer;
+  list-style: none;
+  padding: calc(var(--global-space) / 2) 0;
+  border-bottom: 1px solid var(--secondary-color);
+  font-weight: bold;
+}
+
+#side-panel-toggle > summary::-webkit-details-marker {
+  display: none;
+}
+
+#side-panel-toggle > summary::before {
+  content: "+ ";
+}
+
+#side-panel-toggle[open] > summary::before {
+  content: "- ";
+}
+
+#side-panel-toggle[open] > summary {
+  margin-bottom: var(--global-space);
+}
+
+@media only screen and (min-width: 70em) {
+  #side-panel-toggle > summary {
+    display: none;
+  }
+}
